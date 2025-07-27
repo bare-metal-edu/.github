@@ -7,10 +7,7 @@
 A study of the low-level operation of computer systems. Participating in hands-on activities that often require teamwork, 
 students investigate how computers process instructions in modern computers as information is encoded, stored, and executed 
 in a machine’s physical structures. In addition to learning how to program in assembly and machine languages, students 
-investigate the design and logical operation of processors and the mathematics of machine computation. During a weekly 
-laboratory session, students use industry-grade technology to complete projects, reporting on their results through both 
-written documents and oral presentations. Students are invited to use their own departmentally approved laptop in this course; 
-a limited number of laptops are available for use during class and lab sessions.
+investigate the design and logical operation of processors and the mathematics of machine computation.
 
 ## Learning objectives
 
